@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Ryan Stewart
 
 
 <!--
@@ -11,7 +11,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+<!--[gimmick:theme](spacelab)-->
+[gimmick:theme](journal)
 
 
 <!--
@@ -21,6 +22,11 @@
 
 [About](pages/about.md)
 [Download](pages/download.md)
+[Professional]()
+  * [Curriculum Vitae]()
+  * [Research &amp; Publications]()
+[Personal]()
+
 
 <!-- A more complex navigation example: ----------------------------------------
 
