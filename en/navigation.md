@@ -23,8 +23,10 @@
 [About](pages/about.md)
 [Download](pages/download.md)
 [Professional]()
-  * [Curriculum Vitae]()
-  * [Research &amp; Publications]()
+
+  * # SubMenu Heading 1
+  * [Curriculum Vitae](pages/cv.md)
+  * [Research &amp; Publications](pages/research.md)
 [Personal]()
 
 
