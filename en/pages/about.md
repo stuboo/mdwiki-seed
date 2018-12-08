@@ -1,5 +1,3 @@
-# Ryan Stewart
-
 Welcome.
 
 I'm Ryan Stewart, a urogynecologist in Louisville, Kentucky.
