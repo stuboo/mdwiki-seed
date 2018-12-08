@@ -21,13 +21,16 @@
   -->
 
 [About](pages/about.md)
-[Download](pages/download.md)
+<!--[Download](pages/download.md)-->
 [Professional]()
 
   * [Curriculum Vitae](pages/cv.md)
   * [Research &amp; Publications](pages/research.md)
   
 [Personal]()
+
+  * [Code](pages/code.md)
+  * [Tinkering](pages/tinkering.md)
 
 
 <!-- A more complex navigation example: ----------------------------------------
