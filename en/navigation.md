@@ -24,9 +24,9 @@
 [Download](pages/download.md)
 [Professional]()
 
-  * # SubMenu Heading 1
   * [Curriculum Vitae](pages/cv.md)
   * [Research &amp; Publications](pages/research.md)
+  
 [Personal]()
 
 
