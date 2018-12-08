@@ -1,7 +1,5 @@
-# About Page
+# About Ryan
 
-
-## Doctoring
 
 I’m a practicing physician currently undergoing subspecialty training in Female Pelvic Medicine and Reconstructive Surgery at the University of Louisville in Louisville, Kentucky. To learn more about the subspecialty, I invite you to visit [VoicesForPFD.org](http://voicesforpfd.org) or [AUGS.org](http://augs.org).
 
@@ -18,8 +16,3 @@ For the occasional blog post.
 For sharing and discussing projects I’m working on or considering.
 For getting better at git and markdown.
 To serve as a landing place for everyone who sees my email address and says, “You have your own domain name?”
-
-
-## Section 2
-
-Nulla vitae elit libero, a pharetra augue. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cras mattis consectetur purus sit amet fermentum. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
