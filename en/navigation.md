@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Ryan Stewart
+# Ryan Stewart, DO
 
 
 <!--

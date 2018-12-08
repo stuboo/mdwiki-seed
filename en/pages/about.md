@@ -1,13 +1,23 @@
 # About Page
 
 
-## Section 1
+## Doctoring
 
-Etiam porta sem malesuada magna mollis euismod. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Maecenas sed diam eget risus varius blandit sit amet non magna. Nullam quis risus eget urna mollis ornare vel eu leo. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+I’m a practicing physician currently undergoing subspecialty training in Female Pelvic Medicine and Reconstructive Surgery at the University of Louisville in Louisville, Kentucky. To learn more about the subspecialty, I invite you to visit [VoicesForPFD.org](http://voicesforpfd.org) or [AUGS.org](http://augs.org).
 
-Vestibulum id ligula porta felis euismod semper. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Much of this site reflects my hobbies and interests. Like you, I have hobbies and interests not because I’m good at them, but because they are fun. I love to learn and want to get better, so your feedback is welcomed, but you probably won’t find perfection on anything written here. In short…this site and its contents are a toy.
 
-Donec sed odio dui. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
+A playground.
+
+A sandbox.
+
+You get the picture.
+
+This site exists:
+For the occasional blog post.
+For sharing and discussing projects I’m working on or considering.
+For getting better at git and markdown.
+To serve as a landing place for everyone who sees my email address and says, “You have your own domain name?”
 
 
 ## Section 2
