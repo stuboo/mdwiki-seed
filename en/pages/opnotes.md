@@ -16,38 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent eu varius eros
 ## Laparoscopic
 
 ### Robotic Sacrocolpopexy
-
-Robotic Sacrocolpopexy - Francis
-
-DATE OF OPERATION:
-
-PREOPERATIVE DIAGNOSES:
-
-POSTOPERATIVE DIAGNOSES:
-
-PROCEDURE:
-
-ATTENDING SURGEON:  Sean L. Francis, M.D.
-
-RESIDENT/FELLOW SURGEON:  J. Ryan Stewart, D.O.
-
-ANESTHESIA:  General endotracheal anesthesia.
-
-COMPLICATIONS:  None.
-
-ESTIMATED BLOOD LOSS:  
-
-IV FLUIDS:  
-
-URINE OUTPUT:  
-
-INDICATIONS:  
-
-FINDINGS:  
-
-SPECIMENS: 
-
-DESCRIPTION OF PROCEDURE:  
+ 
 After informed consent was obtained, the patient was taken to the operating room where she was placed in the dorsal supine position. She then underwent an uncomplicated induction of general anesthesia. She was repositioned in dorsal lithotomy with her legs in Allen stirrups and she was on the Allen Steep Trend Positioner (bean bag). The vagina and abdomen were prepped and draped in the normal sterile fashion. A foley catheter was inserted into the bladder. 
 
 The umbilicus was grasped with two Allis clamps and elevated. An 11 mm vertical skin incision was made with the scalpel through the umbilicus and carried down sharply to the fascia. The fascia was then grasped with two Kocher clamps and elevated and entered sharply with the scalpel. The peritoneum was identified and entered sharply with Metzenbaum scissors. An 11 mm Hasson trocar was then inserted into the abdomen and transfixed to the fascia with 0-Vicryl suture.
@@ -69,8 +38,6 @@ We then replaced the Foley catheter and undocked the robot. The 12 mm trocar in 
 Attention was then turned to the posterior repair following the injection in the perineal body and posterior vaginal wall with 1:800,000 dilute epinephrine solution. An inverted triangular incision was made along the perineal body and carried up to the posterior vaginal wall. The vaginal mucosa was dissected off the underlying endopelvic connective tissue in the midline using the Metzenbaum scissors. The excess vaginal mucosa was excised. The mucosa and underlying tissue was plicated in the midline using an 0 Vicryl in a series of interrupted stitches. We then dissected out laterally to reach the levator muscles at the level of the hymen. These were plicated in the midline using 0 Vicryl in an interrupted fashion. We then reapproximated the perineal body using a #1 Vicryl in an interrupted fashion. The perineal skin was then reapproximated using a 3-0 Vicryl in a running subcuticular fashion. 
 
 Sponge, lap, and needle counts were correct x2. The patient tolerated the procedure well, was taken to the recovery room in stable condition. 
-
-Dr. Sean Francis was scrubbed and present for the entire case.
 
 ## Other
 
