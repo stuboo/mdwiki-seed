@@ -3,13 +3,15 @@
 ### Professional Experience
 
 ### Publications
+_see the [Research &amp; Publications](pages/research_publications.md) page_
 
 ### Awards &amp; Grants
-- laparoscopy
+- Scholar, Society of Gynecologic Surgeons, 2017
+- laparoscopy award
 - 4.0 award
 - jeannie spitfire award
 - colposcopy award
-- (Gold Humanism in Medicine Honor Society)[https://ghhs.z2systems.com/np/publicaccess/membershipDirectoryDetail.do?md=1&id=39057], 2015 - present
+- [Gold Humanism in Medicine Honor Society](https://ghhs.z2systems.com/np/publicaccess/membershipDirectoryDetail.do?md=1&id=39057), 2015 - present
 
 ### Professional Affiliations
 
