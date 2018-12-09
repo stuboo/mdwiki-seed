@@ -12,6 +12,8 @@ _see the [Research &amp; Publications](research_publications.md) page_
 - jeannie spitfire award
 2016	colposcopy award
 
+|||
+|---|---|
 | 2016      | Colposcopy Award       |
 | Paragraph   | Text        |
 
