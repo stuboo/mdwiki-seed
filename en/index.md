@@ -1,13 +1,8 @@
-# It works! ;-)
 
 
-## Section 1
+Welcome.
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+I'm Ryan Stewart, a [urogynecologist](https://www.voicesforpfd.org/about/what-is-a-urogynecologist/) in Louisville, Kentucky. My professional research focuses on self-directed patient education, and my professional hobbies involve improving efficiency in patient care, streamlining physician workflow, and developing unique methods for teaching &amp; coaching patients.
 
+In my spare time, I write Python code, make things with wood and microelectronics, and cook. I enjoy podcasts and politics.
 
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
