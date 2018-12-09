@@ -19,6 +19,7 @@ Chief Administrative Resident, 2015 - 2016
 
 **Fellow Physician**
 Department of Obstetrics, Gynecology, &amp; Women's Health
+Division of Female Pelvic Medicine &amp; Reconstructive Surgery
 _University of Louisville School of Medicine, Louisville, Kentucky_
 
 ### Publications
